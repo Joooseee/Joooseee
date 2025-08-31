@@ -29,4 +29,4 @@ Mi meta: entrar al mundo del Red Team y análisis ofensivo para aprender de los 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShadowCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[RedTeam Quote](https://img.shields.io/badge/Red%20Team%20wisdom-Ignore%20the%2097%25%20exploits%20that%20never%20leave%20your%20backpack%20—%20refine%20the%203%25%20that%20quietly%20pries%20open%20the%20kingdom%27s%20crown%20and%20plants%20your%20flag%20on%20the%20CISO%27s%20tower%20before%20the%20alarm%20blinks-purple?style=for-the-badge)
+
